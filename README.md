@@ -51,4 +51,9 @@ Feel free to fork this repository and experiment with the dataset or improve the
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the MIT License and is open to contributions..
+## Usage
+
+1. Clone or download this repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Launch Jupyter Notebook and open `analysis.ipynb` to explore the dataset, visualization, and models.
